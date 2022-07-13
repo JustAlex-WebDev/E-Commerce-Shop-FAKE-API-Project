@@ -1,22 +1,4 @@
-# E-Commerce-Shop-FAKE-API-Project
+# E-Commerce-Shop-FAKE-API-Project (Simple version)
 
-## About the project
-
-An E-Commerce Shop, which will originally be created using local data, simple html, css and javascript. And then it will
-be transformed into more advanced project with the help of REACT and JSON server. 
-The two ways in which the app will be done will be seperated into different branches and the main branch will 
-contain the second (more advanced) way in which the project will be build.
-
-## Expected updates to the app (very soon)
-
-I will transform all the code into REACT, by using components, styled components, hooks as useEffect and useState. 
-Also i will make a JSON server from which i would fetch my data.
-
-## Why I am building the project
-
-This project will be build in order to train responsive HTML, CSS and Javascript. 
-Also, it will be a great way for me to learn some more advanced ways of web development.
-
-## Link to the app
-
-https://e-commerce-shop-fake-api.herokuapp.com/
+This is the simple way of creating an e-commerce-shop app.
+It is created using local data, simple html, css and javascript.
